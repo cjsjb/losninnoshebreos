@@ -22,16 +22,18 @@ globalTempo = {
 	\tempo 4 = 145  \skip 1*50
 }
 \score {
-	\new StaffGroup <<
+	<<
 		% force offset of colliding notes in chords:
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "losninnoshebreos-acordes.inc"
-		\include "losninnoshebreos-soprano.inc"
-		\include "losninnoshebreos-mezzo.inc"
-		\include "losninnoshebreos-tenor.inc"
+		\new StaffGroup <<
+			\include "losninnoshebreos-soprano.inc"
+			\include "losninnoshebreos-mezzo.inc"
+			\include "losninnoshebreos-tenor.inc"
+		>>
 
 	>>
 
-	\layout { }
+	\layout { \context { \RemoveEmptyStaffContext } }
 }
