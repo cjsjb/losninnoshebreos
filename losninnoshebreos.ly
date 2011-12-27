@@ -4,6 +4,7 @@
 #(ly:set-option 'point-and-click #f)
 \header {
 	title = "Los niños hebreos"
+	composer = "Francisco Palazón Martínez"
 	tagline = "Coro Juvenil San Juan Bosco"
 }
 #(set-global-staff-size 20)
