@@ -40,7 +40,7 @@
 		e' 4. b 4 r8 b 4  |
 		d' 4. e' fis' 4  |
 		g' 4. g' 4 r8 b 4  |
-		c' 2 c' 4 c'  |
+		c' 2 e' 4 e'  |
 		dis' 4. ( e' dis' 4 )  |
 		b 1  |
 		r2 r4
@@ -73,7 +73,7 @@
 		e' 4. b 4 r8 b 4  |
 		d' 4. e' fis' 4  |
 		g' 4. g' 4 r8 b 4  |
-		c' 2 c' 4 c'  |
+		c' 2 e' 4 e'  |
 		dis' 4. ( e' dis' 4 )  |
 		b 1  |
 		R1  |
