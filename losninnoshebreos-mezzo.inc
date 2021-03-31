@@ -92,7 +92,7 @@
 		Por -- to -- nes, a -- brid los din -- te -- les, __
 		que se_al -- cen las puer -- tas e -- ter -- nas. __
 		Va_en -- trar el rey de la glo -- ria,
-		hé -- roe va -- le -- ro --so,
+		hé -- roe va -- le -- ro -- so,
 		mi Dios de_Is -- ra -- el. __
 
 		¡Ho -- san -- na_en el cie -- lo,
