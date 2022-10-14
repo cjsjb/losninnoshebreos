@@ -80,7 +80,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		Los ni -- ños he -- bre -- os, __
 		lle -- van -- do ra -- mos de_o -- li -- vo, __
 		sa -- lie -- ron al en -- cuen -- tro del Se -- ñor a -- cla -- man -- do: __
